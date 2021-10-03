@@ -283,13 +283,13 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 [LICENSE:icon:shld]: https://img.shields.io/badge/license-CC%20BY%203.0-ef9421?logo=creativecommons&labelColor=black&logoColor=ef9421 "CC BY 3.0"
 
 <!--- AVC -->
-[AVC:shld]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic  
+[AVC:shld]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
 [AVCVLD:shld]: https://github.com/zer0Kerbal/OhScrap/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid"
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-* "CKAN"
-[CKAN:shd]: https://img.shields.io/badge/CKAN-MoarKerbalsParts-white.svg?labelColor=E32811&style=plastic "CKAN" 
+[CKAN:shd]: https://img.shields.io/badge/CKAN-MoarKerbalsParts-white.svg?labelColor=E32811&style=plastic "CKAN"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/MoarKerbalsParts "Curseforge"
@@ -298,7 +298,7 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 
 [GITHUB:url]: https://github.com/zer0Kerbal/MoarKerbalsParts/ "GitHub"
 [GITHUB:img]: https://i.imgur.com/RE4Ppr9.png "GitHub"
-[GITHUB:shld]: https://img.shields.io/badge/Github-Listed-white.svg?labelColor=181717&style=plastic&logo=github "GitHub"  
+[GITHUB:shld]: https://img.shields.io/badge/Github-Listed-white.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
 [SPCDCK:url]: http://spacedock.info/mod/ "SpaceDock"
 [SPCDCK:img]: https://i.imgur.com/m0a7tn2.png "SpaceDock"
@@ -347,54 +347,54 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 [thread:SOLS]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-* "Solar Science (SOLS)"
 [thread:MOARP]: https://forum.kerbalspaceprogram.com/index.php?/topic/191525-* "MoarKerbalsParts (MOARP)"
 [thread:SCON!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstructon!"
-[thread:SLIF!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191526-* "SimpleLife! (SLIFE!)"  
+[thread:SLIF!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191526-* "SimpleLife! (SLIFE!)"
 [thread:SLOG!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"
 
 <!-- other mods -->
 [thread:cc]:  https://forum.kerbalspaceprogram.com/index.php?/topic/91625-* "Contract Configurator"
-[thread:df]: https://forum.kerbalspaceprogram.com/index.php?/topic/112328-* "DeepFreeze"  
-[thread:dr]: https://forum.kerbalspaceprogram.com/index.php?/topic/50296-* "Deadly Reentry"  
+[thread:df]: https://forum.kerbalspaceprogram.com/index.php?/topic/112328-* "DeepFreeze"
+[thread:dr]: https://forum.kerbalspaceprogram.com/index.php?/topic/50296-* "Deadly Reentry"
 [thread:fs]: https://forum.kerbalspaceprogram.com/index.php?/topic/22583-* "Firespitter"
-[thread:mc]: https://forum.kerbalspaceprogram.com/index.php?/topic/40183-* "Mission Controller"  
+[thread:mc]: https://forum.kerbalspaceprogram.com/index.php?/topic/40183-* "Mission Controller"
 [thread:mm]:  https://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
-[thread:sr]: https://forum.kerbalspaceprogram.com/index.php?/topic/179306-* "StageRecovery"  
+[thread:sr]: https://forum.kerbalspaceprogram.com/index.php?/topic/179306-* "StageRecovery"
 [thread:rt]:  http://remotetechnologiesgroup.github.io/RemoteTech/ "RemoteTech"
 [thread:arp]: https://forum.kerbalspaceprogram.com/index.php?/topic/54876-* "Alternate Resource Panel"
 [thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"
-[thread:epl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-* "Extraplanetary Launchpads"  
-[thread:far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-* "FAR"  
+[thread:epl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-* "Extraplanetary Launchpads"
+[thread:far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-* "FAR"
 [thread:gpp]: https://forum.kerbalspaceprogram.com/index.php?/topic/152136-* "Galileo Planet Pack"
 [thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal ChangeLog"
-[thread:kct]: https://forum.kerbalspaceprogram.com/index.php?/topic/182877-* "Kerbal Construction Time"  
-[thread:kks]: https://forum.kerbalspaceprogram.com/index.php?/topic/133082-* "KRASH"  
+[thread:kct]: https://forum.kerbalspaceprogram.com/index.php?/topic/182877-* "Kerbal Construction Time"
+[thread:kks]: https://forum.kerbalspaceprogram.com/index.php?/topic/133082-* "KRASH"
 [thread:kop]: https://forum.kerbalspaceprogram.com/index.php?/topic/181547-* "Kopernicus"
 [thread:kos]: http://ksp-kos.github.io/KOS_DOC/ "Kerbal Operating System (kOS)"
 [thread:m13]: https://forum.kerbalspaceprogram.com/index.php?/topic/178484-* "Magico13's Modlets"
 [thread:smx]: https://forum.kerbalspaceprogram.com/index.php?/topic/130325-* "Stockalike Mining Expansion (SMX)"
 [thread:tss]: http://forum.kerbalspaceprogram.com/index.php?/topic/154853-* "Tarsier Space Tech"
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
-[thread:kspi]:https://forum.kerbalspaceprogram.com/index.php?/topic/173818-* "KSP Interstellar Extended"  
+[thread:kspi]:https://forum.kerbalspaceprogram.com/index.php?/topic/173818-* "KSP Interstellar Extended"
 [thread:ponpe]: https://forum.kerbalspaceprogram.com/index.php?/topic/121597-* "Project Orion"
 [thread:scnst]: https://forum.kerbalspaceprogram.com/index.php?/topic/72679-* "SCANsat"
-[thread:snacks]: https://forum.kerbalspaceprogram.com/index.php?/topic/149604-* "Snacks"  
-[thread:MOARs]: http://forum.kerbalspaceprogram.com/index.php?/topic/154587-* "Modular Kolonization System (MKS)"  
-[thread:smpx]:  https://forum.kerbalspaceprogram.com/index.php?/topic/205078- "SIMPLEX Colonies"  
-[thread:tac-ls]: https://github.com/KSP-RO/TacLifeSupport/wiki "TAC-LS"  
-[thread:usi-ls]: http://umbraspaceindustries.github.io/UmbraSpaceIndustries/ "USI-LS"  
+[thread:snacks]: https://forum.kerbalspaceprogram.com/index.php?/topic/149604-* "Snacks"
+[thread:MOARs]: http://forum.kerbalspaceprogram.com/index.php?/topic/154587-* "Modular Kolonization System (MKS)"
+[thread:smpx]:  https://forum.kerbalspaceprogram.com/index.php?/topic/205078- "SIMPLEX Colonies"
+[thread:tac-ls]: https://github.com/KSP-RO/TacLifeSupport/wiki "TAC-LS"
+[thread:usi-ls]: http://umbraspaceindustries.github.io/UmbraSpaceIndustries/ "USI-LS"
 
-[thread:ics]: https://forum.kerbalspaceprogram.com/index.php?/topic/74182-* " Ioncross Crew Support"  
-[thread:bm]: https://forum.kerbalspaceprogram.com/index.php?/topic/48629-* "BioMass"  
+[thread:ics]: https://forum.kerbalspaceprogram.com/index.php?/topic/74182-* " Ioncross Crew Support"
+[thread:bm]: https://forum.kerbalspaceprogram.com/index.php?/topic/48629-* "BioMass"
 
 <!--- statics -->
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
-[LINK:strideknight]: https://forum.kerbalspaceprogram.com/index.php?/profile/67555-strideknight/ "StrideKnight" 
-[LINK:nils277]: https://forum.kerbalspaceprogram.com/index.php?/profile/122414-nils277/ "Nills277"   
-[LINK:roverdude]: https://forum.kerbalspaceprogram.com/index.php?/profile/105198-roverdude/ "RoverDude"   
+[LINK:strideknight]: https://forum.kerbalspaceprogram.com/index.php?/profile/67555-strideknight/ "StrideKnight"
+[LINK:nils277]: https://forum.kerbalspaceprogram.com/index.php?/profile/122414-nils277/ "Nills277"
+[LINK:roverdude]: https://forum.kerbalspaceprogram.com/index.php?/profile/105198-roverdude/ "RoverDude"
 
 <!-- footnotes -->
-  [^1]: ***may*** work on other versions (YMMV)
-  [^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
-  [^3]: this isn't a mod. ;P
+[^1]: ***may*** work on other versions (YMMV)
+[^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
+[^3]: this isn't a mod. ;P
 
 <!--- misc logos -->
 [IMG:flg:0]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/strideknight_sm.jpg "MoarKerbals Flag"
@@ -402,14 +402,14 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 [IMG:hero:0]: https://i.imgur.com/PCGwS6R.png "MoarKerbals"
 [IMG:hero:1]: https://i.imgur.com/fxpDZqn.png "MoarKerbals Screenshots"
 
-[IMGUR:0]: https://imgur.com/a/ucN1S "View full album on imgur"  
+[IMGUR:0]: https://imgur.com/a/ucN1S "View full album on imgur"
 
 
-[IMG:part:1]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-kuddleshack.png "TheKuddleShack"  
-[IMG:part:1]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-klonebay-ground_icon.png "KloneKabin - ground base"  
-[IMG:part:2]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-klonebay-orbital_icon.png "KloneKabin - orbital station"  
-[IMG:part:3]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-kloneschool_icon.png "KloneSchool"  
-[IMG:part:4]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-kloneschool-orbital_icon.png "KloneSchool - orbital station"  
+[IMG:part:0]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-kuddleshack.png "TheKuddleShack"
+[IMG:part:1]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-klonebay-ground_icon.png "KloneKabin - ground base"
+[IMG:part:2]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-klonebay-orbital_icon.png "KloneKabin - orbital station"
+[IMG:part:3]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-kloneschool_icon.png "KloneSchool"
+[IMG:part:4]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-kloneschool-orbital_icon.png "KloneSchool - orbital station"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-MonoPropellant-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
@@ -425,23 +425,23 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal "Buy Me A Snack"
 
 <!-- Localization -->
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"  
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brasil"  
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"   
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/German-flag-sm.png "Deutsch"  
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Spanish-flag-sm.png "Español"  
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/French-flag-sm.png "Français"  
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"  
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"  
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"  
-[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Mexicano"  
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"  
-[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"  
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"  
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"  
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"  
-[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"  
-[HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"  
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
+[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brasil"
+[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"
+[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/German-flag-sm.png "Deutsch"
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Spanish-flag-sm.png "Español"
+[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/French-flag-sm.png "Français"
+[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"
+[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
+[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
+[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Mexicano"
+[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
+[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
+[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
+[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
+[HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
 <!--
 CC BY-NC-SA-4.0
