@@ -29,7 +29,7 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 
 ## Description 
 
-### Preamble by [`@CobaltWolf`][LINK:cobaltwolf]  
+### Preamble by [@`StrideKnight`][LINK:strideknight]  
 
 #### Kerbthulhu Kinetics Program's MoarKerbalsParts
 
