@@ -39,15 +39,20 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 > 
 > There is a small chance for a freakish accident to occur, which can be disabled in the part's .cfg file, or you can just quicksave before kloning ;)
 > 
-> 
 > This is a fairly simple mod that adds the ability to use resources to create a new kerbal. Requires resources and the presence of a living kerbal. There's a small chance that an accident can happen - this is experimental technology after all. :wink:
 > Note: a failed process will kill every kerbal inside the Kloning bay.
 > 
 > You can disable accidents or change the requirements in the part's .cfg file if you want, or just save before operating.
 > 
-> MoarKerbals adds two parts:
-> - orbital station 
-> - ground station (Klone Bay)
+> MoarKerbals adds five parts:
+> - Kloning Kabin - orbital station 
+> - Kloning Kabin - ground base
+> - Kuddle Shack - where kerbals go to do whatever they do to make more kerbals.
+> - Klone School - orbital station 
+> - Klone School - ground base
+
+![][IMG:part:0] ![][IMG:part:1] ![][IMG:part:2] ![][IMG:part:3] ![][IMG:part:4] 
+
 > 
 > It requires a large amount of electricity to operate, and [strideknight] has always played with Roverdude's MKS and TAC's Life Support, so it automatically integrates with them to require Biomass or other materials. Also, [strideknight] included configs for the Community Tech Tree. Both require ModuleManager to integrate.
 > 
@@ -393,18 +398,19 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
   [^3]: this isn't a mod. ;P
 
 <!--- misc logos -->
-[IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "MoarKerbalsParts Flag"
+[IMG:flg:0]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/strideknight_sm.jpg "MoarKerbals Flag"
 
 [IMG:hero:0]: https://i.imgur.com/PCGwS6R.png "MoarKerbals"
 [IMG:hero:1]: https://i.imgur.com/fxpDZqn.png "MoarKerbals Screenshots"
 
 [IMGUR:0]: https://imgur.com/a/ucN1S "View full album on imgur"  
 
-[IMG:part:0]: ""  
-[IMG:part:1]: ""  
-[IMG:part:2]: ""  
-[IMG:part:3]: ""  
-[IMG:part:4]: ""  
+
+[IMG:part:1]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/mk-kuddleshack.png ""  
+[IMG:part:1]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/mk-kloneBay-ground_icon.png ""  
+[IMG:part:2]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/mk-kloneBay-orbital_icon.png ""  
+[IMG:part:3]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/mk-kloneSchool_icon.png ""  
+[IMG:part:4]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/mk-kloneSchool-orbital_icon.png ""  
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-MonoPropellant-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
