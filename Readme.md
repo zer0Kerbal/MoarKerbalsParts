@@ -15,7 +15,7 @@ updated: 02 Oct 2021 -->
 ***Populate your colony in space!*** 
 Parts for the MoarKerbals, a mod for Kerbal Space Program.
 
-#### Adopted for curation by [@`zer0Kerbal`][LINK:zer0Kerbal], originally by [@`StrideKnight`][LINK:strideknight]  
+#### Adopted by [@`zer0Kerbal`][LINK:zer0Kerbal], originally by [@`StrideKnight`][LINK:strideknight]  
 
 ![Mod Version][MOD:shld:latest] ![KSP version][KSP:shld]  [![License CC BY-NC-SA 4.0][LICENSE:shld]][LICENSE:url]  
 
@@ -93,7 +93,7 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 
 ### Localization _work in progress_
 
-> - [x]  English ![][EN]
+> - [x]  ![][EN] English  
 > - [ ]  _your language here_
 >
 > HELP WANTED - See the [README in the Localization folder][LINK:local] for instructions for adding or improving translations for languages other than English. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections solicited and welcome!* 
@@ -135,8 +135,8 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 
 - [x]  [KaboOom! (BOOM)][thread:BOOM] another way to not go to space today  
 - [x]  [On Demand Fuel Cells (ODFC))][thread:ODFC]  
-- [x]  [SimpleLogistics! (SLOG!)][thread:SLOG]  
-- [x]  [SimpleConstruction! (SCON!)][thread:SCON]  
+- [x]  [SimpleLogistics! (SLOG!)][thread:SLOG!]  
+- [x]  [SimpleConstruction! (SCON!)][thread:SCON!]  
 - [ ]  [Foundations (FND) - beta][thread:FND] ***Helps prevent ground constructions from floating away :)*** 
 - [x]  [Field Training Facility (FTF)][thread:FTF]  
 - [x]  [Field Training Lab (FTL)][thread:FTL]  
@@ -176,7 +176,6 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 - [x]  [Connected Living Space (CLS)][thread:cls]  
 - [x]  [TweakScale][thread:twk]  
 - [x]  [SimpleLife (SLIFE!)][thread:SLIF!]  
-- [x]  
 
 ### Future mods that hopefully will have compatibility patches  
 
@@ -348,7 +347,7 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 [thread:MOARP]: https://forum.kerbalspaceprogram.com/index.php?/topic/191525-* "MoarKerbalsParts (MOARP)"
 [thread:SCON!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstructon!"
 [thread:SLIF!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191526-* "SimpleLife! (SLIFE!)"
-[thread:SLOG!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"
+[thread:SLOG!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics! (SLOG!)"
 
 <!-- other mods -->
 [thread:cc]:  https://forum.kerbalspaceprogram.com/index.php?/topic/91625-* "Contract Configurator"
@@ -360,7 +359,10 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 [thread:sr]: https://forum.kerbalspaceprogram.com/index.php?/topic/179306-* "StageRecovery"
 [thread:rt]:  http://remotetechnologiesgroup.github.io/RemoteTech/ "RemoteTech"
 [thread:arp]: https://forum.kerbalspaceprogram.com/index.php?/topic/54876-* "Alternate Resource Panel"
+[thread:cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130 "Connected Living Space (CLS)"  
 [thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"
+[thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"
+[thread:ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-* "Community Tech Tree (CTT)"  
 [thread:epl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-* "Extraplanetary Launchpads"
 [thread:far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-* "FAR"
 [thread:gpp]: https://forum.kerbalspaceprogram.com/index.php?/topic/152136-* "Galileo Planet Pack"
@@ -388,7 +390,7 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 <!--- statics -->
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
 [LINK:strideknight]: https://forum.kerbalspaceprogram.com/index.php?/profile/67555-strideknight/ "StrideKnight"
-[LINK:nils277]: https://forum.kerbalspaceprogram.com/index.php?/profile/122414-nils277/ "Nills277"
+[LINK:nills277]: https://forum.kerbalspaceprogram.com/index.php?/profile/122414-nils277/ "Nills277"
 [LINK:roverdude]: https://forum.kerbalspaceprogram.com/index.php?/profile/105198-roverdude/ "RoverDude"
 
 <!-- footnotes -->
