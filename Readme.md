@@ -73,8 +73,7 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 ***
 
 ![Flag][IMG:flg:0]  
-![Hero Image][IMG:hero:0]  
-![IMG:hero:0]  
+![Hero Image][IMG:hero:0]    
 
 #### Cabin notes  
 
@@ -272,16 +271,16 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 
 [LICENSE:orig:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
 [LICENSE:icon:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LICENSE:orig:shld]: https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-ef9421?logo=creativecommons&labelColor=black&logoColor=ab2b28 "CC BY-NC-SA 4.0"
+[LICENSE:orig:shld]: https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-ef9421?logo=creativecommons&labelColor=black&logoColor=ef9421 "CC BY-NC-SA 4.0"
 
 [LICENSE:spec:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"
 [LICENSE:icon:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
 [LICENSE:spec:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LICENSE:spec:shld]: https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-ef9421?logo=creativecommons&labelColor=black&logoColor=ab2b28 "CC BY-NC-SA 4.0"
+[LICENSE:spec:shld]: https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-ef9421?logo=creativecommons&labelColor=black&logoColor=ef9421 "CC BY-NC-SA 4.0"
 
 [LICENSE:icon:url]:  https://creativecommons.org/licenses/by/3.0/ "CC BY 3.0"
 [LICENSE:icon:logo]: https://licensebuttons.net/i/l/by/transparent/33/66/99/76x22.png "CC BY 3.0"
-[LICENSE:icon:shld]: https://img.shields.io/badge/license-CC%20BY%203.0-ef9421?logo=creativecommons&labelColor=black&logoColor=ab2b28 "CC BY 3.0"
+[LICENSE:icon:shld]: https://img.shields.io/badge/license-CC%20BY%203.0-ef9421?logo=creativecommons&labelColor=black&logoColor=ef9421 "CC BY 3.0"
 
 <!--- AVC -->
 [AVC:shld]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic  
