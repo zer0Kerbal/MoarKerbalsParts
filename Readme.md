@@ -405,11 +405,11 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 [IMGUR:0]: https://imgur.com/a/ucN1S "View full album on imgur"  
 
 
-[IMG:part:1]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/mk-kuddleshack.png ""  
-[IMG:part:1]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/mk-kloneBay-ground_icon.png ""  
-[IMG:part:2]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/mk-kloneBay-orbital_icon.png ""  
-[IMG:part:3]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/mk-kloneSchool_icon.png ""  
-[IMG:part:4]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/mk-kloneSchool-orbital_icon.png ""  
+[IMG:part:1]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-kuddleshack.png "TheKuddleShack"  
+[IMG:part:1]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-klonebay-ground_icon.png "KloneKabin - ground base"  
+[IMG:part:2]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-klonebay-orbital_icon.png "KloneKabin - orbital station"  
+[IMG:part:3]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-kloneschool_icon.png "KloneSchool"  
+[IMG:part:4]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-kloneschool-orbital_icon.png "KloneSchool - orbital station"  
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-MonoPropellant-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
