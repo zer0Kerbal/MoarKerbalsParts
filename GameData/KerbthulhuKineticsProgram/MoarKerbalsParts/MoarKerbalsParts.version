@@ -1,42 +1,42 @@
 {
-	"NAME"     : "MoarKerbals (MOAR)",
-	"URL"      : "https://raw.githubusercontent.com/zer0Kerbal/MoarKerbals/master/GameData/MoarKerbals/MoarKerbals.version",
-	"DOWNLOAD" : "https://github.com/zer0Kerbal/MoarKerbals/releases/latest",
-	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/zer0Kerbal/MoarKerbals/Changelog.cfg",
+	"NAME"     : "MoarKerbals Parts (MOARP)",
+	"URL"      : "https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/GameData/MoarKerbals/MoarKerbals.version",
+	"DOWNLOAD" : "https://github.com/zer0Kerbal/MoarKerbalsParts/releases/latest",
+	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/Changelog.cfg",
 	"GITHUB" :
 	{
 		"USERNAME" : "zer0Kerbal",
-		"REPOSITORY" : "MoarKerbals",
+		"REPOSITORY" : "MoarKerbalsParts",
 		"ALLOW_PRE_RELEASE": false
 	},
 	"VERSION" : 
 	{
-		"MAJOR" : 0,
-		"MINOR" : 9,
-		"PATCH" : 99,
+		"MAJOR" : 1,
+		"MINOR" : 0,
+		"PATCH" : 0,
 		"BUILD" : 0
 	},
 	"KSP_VERSION":
 	{
-		"MAJOR":1,
-		"MINOR":12,
-		"PATCH":2
+		"MAJOR" : 1,
+		"MINOR" : 12,
+		"PATCH" : 2
 	},
 	"KSP_VERSION_MIN":
 	{
-		"MAJOR":1,
-		"MINOR":3,
-		"PATCH":1
+		"MAJOR" : 1,
+		"MINOR" : 0,
+		"PATCH" : 0
 	},
 	"KSP_VERSION_MAX":
 	{
-		"MAJOR":1,
-		"MINOR":12,
-		"PATCH":99
+		"MAJOR" : 1,
+		"MINOR" : 12,
+		"PATCH" : 99
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME" :		  "MoarKerbals",
-		"DIRECTORY" :	 "KerbthulhuKineticsProgram/MoarKerbalsParts"
+		"NAME"      : "MoarKerbalsParts",
+		"DIRECTORY" : "KerbthulhuKineticsProgram/MoarKerbalsParts"
 	}
 }
