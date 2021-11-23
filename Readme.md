@@ -3,7 +3,7 @@ MoarKerbalsParts (MOARP)
 created: 17 Jul 18
 updated: 02 Oct 2021 -->
 
-[MODVERSION]: 0.9.99.0
+[MODVERSION]: 1.0.0.0
 [KSPVERSION]: 1.12.2
 
 ## Download on [Curseforge][CURSFG:url] or [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]. 
@@ -17,11 +17,11 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 
 #### Adopted by [@`zer0Kerbal`][LINK:zer0Kerbal], originally by [@`StrideKnight`][LINK:strideknight]  
 
-![Mod Version][MOD:shld:latest] ![KSP version][KSP:shld]  [![License CC BY-NC-SA 4.0][LICENSE:shld]][LICENSE:url]  
+![Mod Version][MOD:shld:latest] ![KSP version][KSP:shld]  [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url]  
 
 [![Curseforge][CURSFG:shld]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shld]][GITHUB:url] [![SpaceDock][SPCDCK:shld]][SPCDCK:url]  
 
-![Code][CODE:shld] ![KSP-AVC][AVC:shld] ![Validate AVC .version files][AVCVLD:shld]  
+![Code][CODE:shld] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]  
 
 ###### _brought to you by KGEx_
 
@@ -29,46 +29,18 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 
 ## Description 
 
-### Preamble by [@`StrideKnight`][LINK:strideknight]  
-
 #### Kerbthulhu Kinetics Program's MoarKerbalsParts
 
 ##### Populate your colony in space!
 
-> This mod installs a Klone Bay that you can use to replicate new kerbals wherever you feel like.  It takes a fair amount of electricity, and when combined with USI's MKS mod or TAC Life Support, it will require biomatter as well.
-> 
-> There is a small chance for a freakish accident to occur, which can be disabled in the part's .cfg file, or you can just quicksave before kloning ;)
-> 
-> This is a fairly simple mod that adds the ability to use resources to create a new kerbal. Requires resources and the presence of a living kerbal. There's a small chance that an accident can happen - this is experimental technology after all. :wink:
-> Note: a failed process will kill every kerbal inside the Kloning bay.
-> 
-> You can disable accidents or change the requirements in the part's .cfg file if you want, or just save before operating.
-> 
-> MoarKerbals adds five parts:
-> - Kloning Kabin - orbital station 
-> - Kloning Kabin - ground base
-> - Kuddle Shack - where kerbals go to do whatever they do to make more kerbals.
-> - Klone School - orbital station 
-> - Klone School - ground base
+## MoarKerbalsParts adds five parts:
+- KloneBay - orbital kloning station 
+- KloneBay - ground kloning base
+- KuddleShack - where kerbals go to do whatever they do to make more kerbals.
+- KloneAcademy - orbital Academy station 
+- KloneAcademy - ground Academy base
 
 ![][IMG:part:0] ![][IMG:part:1] ![][IMG:part:2] ![][IMG:part:3] ![][IMG:part:4] 
-
-> 
-> It requires a large amount of electricity to operate, and [strideknight] has always played with Roverdude's MKS and TAC's Life Support, so it automatically integrates with them to require Biomass or other materials. Also, [strideknight] included configs for the Community Tech Tree. Both require ModuleManager to integrate.
-> 
-> MoarKerbals was inspired by [strideknight]'s desire to have a small colony of Kerbals living in zeppelins around Jool who populate the planet, evolve their own society, and then to go to war with the "grounders" back on Kerbin.
-> 
-> This is [strideknight]'s first mod and it runs fine installs, so let me know if you find any bugs. All constructive feedback/suggestions are also welcome. Enjoy!
-> 
-> ### Known issue
-> Because I use the stock lander can for internals, which is only sized internally for two, if you clone a third kerbal into the bay it won't show up in the kerbal profiles at the bottom right. They will show up properly once you transfer them to another module though.
-> 
-> 
-## Features
-- No extra parts
-- No RAM usage
-- Added functionality for the Mobile Processing Lab in the late game
-- Simple, configurable and adds levels of depth to the gameplay without a learning curve
 
 ***
 
@@ -76,13 +48,6 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 ![Hero Image][IMG:hero:0]    
 
 #### Cabin notes  
-
-> - The mod contains five parts:
->   - KloneKabin - ground base
->   - KloneKabin - orbital station
->   - The Kuddle Shack, where kerbals go to do whatever they do to make more kerbals
->   - School - ground base
->   - School - orbital station
 > - Future Plans: lol. Except compatibility patches, keep it working with any future KSP updates.
 > - Community Tech Tree integration and Tech Tree Balancing (need feedback and assistance)
 > - I have not personally tested the patches  
@@ -98,13 +63,10 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 >
 > HELP WANTED - See the [README in the Localization folder][LINK:local] for instructions for adding or improving translations for languages other than English. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections solicited and welcome!* 
 
-***
-
 ### How to support  
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
 
-***
 
 ### See More
 
@@ -112,56 +74,57 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 - Changelog Summary for more details of changes : See [ChangeLog][MOD:clog]  
 - Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]  
 
-***
-
 ### Installation Directions  
 
-- Use  
+- Use [^3]  
 [![CKAN][CKAN:img]][CKAN:url]
+
+***
 
 ### Dependencies  
 
 - [x]  [Kerbal Space Program][KSP:url] [![][KSP:shld]][KSP:url] [^1]  
-- [x]  [MoarKerbals(MOAR)][thread:MOAR]  
 
 ### Recommends  
-
-- [x]  [Comprehensive Kerbal Archive Network (CKAN)][CKAN:url] [^3]  
+- [x]  [MoarKerbals(MOAR)][thread:MOAR]  _if you want these part to do anything_
 - [x]  [Module Manager][thread:mm] [^2]  
 
 ### Suggests  
 
 #### Mods that benefit MoarKerbalParts (MOARP)
 
-- [x]  [KaboOom! (BOOM)][thread:BOOM] another way to not go to space today  
-- [x]  [On Demand Fuel Cells (ODFC))][thread:ODFC]  
 - [x]  [SimpleLogistics! (SLOG!)][thread:SLOG!]  
 - [x]  [SimpleConstruction! (SCON!)][thread:SCON!]  
-- [ ]  [Foundations (FND) - beta][thread:FND] ***Helps prevent ground constructions from floating away :)*** 
+- [x]  [Not So SimpleConstructon! (NSSC)][thread:NSSC] 
+- [x]  [Keridian Dynamics Vessel Assembly (KDVA)][thread:KDVA]
 - [x]  [Field Training Facility (FTF)][thread:FTF]  
 - [x]  [Field Training Lab (FTL)][thread:FTL]  
+- [x]  [KaboOom! (BOOM)][thread:BOOM] another way to not go to space today  
+- [x]  [On Demand Fuel Cells (ODFC))][thread:ODFC]  
+- [ ]  [Foundations (FND) - beta][thread:FND] ***Helps prevent ground constructions from floating away :)*** 
 
 #### Other fun mods by [`zed'K`][LINK:zer0Kerbal] 
 
 - [x]  [Biomatic (BIO)][thread:BIO]
-- [x]  [Simple Cargo Solutions (SCS)][thread:SCS]
 - [x]  [Solar Science (SOLS)][thread:SOLS]  
 - [x]  [Stork Delivery System (SDS)][thread:SDS]
 - [x]  [Komplexity (KPLX)][thread:KPLX]  
 - [x]  [Mini Sample Return Capsule (MSRC)][thread:MSRC] 
 - [x]  [Pteron (MSRV)][thread:MSRV] 
 - [x]  [Jack-O-Lantern (JACK)][thread:JACK]  
+- [x]  [Halloween! (HLWN)][thread:HLWN]  
 - [x]  [Docking Port Descriptions(DPD)][thread:DPD]  
 - [x]  [PicoPort Shielded (PPS)][thread:PPS]  
 - [x]  [Transparent Command Pods) (TCP)][thread:TCP]  
-- [x]  [More Hitchhikers) (MHH)][thread:MHH]  
+- [x]  [More Hitchhikers) (MHH)][thread:MHH] 
 - [x]  [B9 Stock Patches (B9S)][thread:B9S]
-- [x]  [Oh Scrap!][thread:OHS]  
 - [x]  [ScrapYard][thread:SYD]  
+- [x]  [Oh Scrap!][thread:OHS]  
 - [x]  [DaMichel's AeroRadial (DAR)][thread:DAR]  
 - [x]  [DaMichel's CargoBays (DCB)][thread:DCB]  
 - [x]  [DaMichel's Fuselage (DMF)][thread:DMF]  
 - [x]  [DaMichel's Spherical Tanks (DST)][thread:DST]  
+- [x]  [Simple Cargo Solutions (SCS)][thread:SCS]
 - [x]  [KerGuise Experimental Engineering (KGEx)][thread:KGEX]  
 - [x]  [The Gold Standard (GOLD)][thread:GOLD]  
 - [x]  [Keridian Dynamics Vessel Assembly (KDVA)][thread:KDVA]
@@ -176,14 +139,15 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 - [x]  [Connected Living Space (CLS)][thread:cls]  
 - [x]  [TweakScale][thread:twk]  
 - [x]  [SimpleLife (SLIFE!)][thread:SLIF!]  
+- [x]  [USI-LS][thread:usils]  
 
 ### Future mods that hopefully will have compatibility patches  
 
-- [x]  [SIMPLEX Colonies][thread:smpx]  
-- [x]  [USI-LS][thread:usi-ls]  
-- [x]  [TAC-LS][thread:tac-ls]  
-- [x]  [Snacks)][thread:snacks]  
-- [x]  [Modular Kolonization System (MKS)][thread:MOARs]
+- [ ]  [SIMPLEX Colonies][thread:Scol]  
+- [ ]  [TAC-LS][thread:tacls]  
+- [ ]  [Snacks)][thread:snacks]  
+- [ ]  [Modular Kolonization System (MKS)][thread:mks]
+- [ ]  [Ioncross Crew Support!][[thread:ics]
 
 ### Conflicts  
 
@@ -207,25 +171,26 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 ### Credits and Special Thanks 
 
 - [`StrideKnight`][LINK:strideknight] - original author 
-- [`Nills277`][LINK:nills277] - Models, textures, Unity  
+- [`Nils277`][LINK:nils277] - Models, textures, Unity  
 - [`Roverdude`][LINK:roverdude] - Models, textures, and support
+- [`linuxgurugamer`][LINK:linuxgurugamer] - configs
 
 ### Legal Mumbo Jumbo (License _provenance_)
 
 #### Current (1) - [`zer0Kerbal`][LINK:zer0Kerbal] 
 
 > Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
-> License: [![License CC BY-NC-SA 4.0][LICENSE:shld]][LICENSE:url]  
+> License: [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url]  
 
 > ***All bundled mods are distributed under their own licenses***  
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***  
-> - DNA Icon made by Freepik from www.flaticon.com [![License CC BY 3.0][LICENSE:icon:shld]][LICENSE:icon:url] [![][LICENSE:icon:logo]][LICENSE:icon:url]  
-> - Textures originally made by RoverDude distributed under the [![License CC BY-NC-SA 4.0][LICENSE:spec:shld]][LICENSE:spec:url] and modified by [`strideknight`][LINK:strideknight]  
+> - DNA Icon made by Freepik from www.flaticon.com [![License CC BY 3.0][LIC:icn:shd]][LIC:icn:url] [![][LIC:log]][LIC:icn:url]  
+> - Textures originally made by RoverDude distributed under the [![License CC BY-NC-SA 4.0][LIC:spec:shd]][LIC:spec:url] and modified by [`strideknight`][LINK:strideknight]  
 
 #### Original (0) - Author: [`StrideKnight`][LINK:strideknight]
 
-> [Thread][MOD:orig:thread]  - [Download][MOD:orig:download] - Source: [GitHub][MOD:orig:source] 
-> License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] 
+> [Thread][MOD:org:thread]  - [Download][MOD:org:download] - Source: [GitHub][MOD:org:source] 
+> License: [![License CC BY-NC-SA 4.0][LIC:org:shld]][LIC:org:url] 
 
 -----
 
@@ -239,7 +204,7 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 
 ##### Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date 
 
-###### v0.9.99.0 original: 11 Aug 2018 zed'K | updated: 02 Oct 2021 zed'K
+###### v1.0.0.0 original: 11 Aug 2018 zed'K | updated: 22 Nov 2021 zed'K
 
 <!-- mod links -->
 [MOD:license]:https://github.com/zer0Kerbal/MoarKerbalsParts/blob/master/LICENSE
@@ -247,43 +212,43 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 [MOD:clog]: https://github.com/zer0Kerbal/MoarKerbalsParts/Changelog.cfg "Changelog"
 [MOD:disc]: https://github.com/zer0Kerbal/MoarKerbalsParts/discussions "Discussions"
 [MOD:wiki]: https://github.com/zer0Kerbal/MoarKerbalsParts/ "Wiki"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/204186-* "MoarKerbalsParts Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/191525-* "MoarKerbalsParts Forum Thread"
 [MOD:known]: https://github.com/zer0Kerbal/MoarKerbalsParts/wiki/Known-Issues "Known Issues"
 [MOD:issues]:  https://github.com/zer0Kerbal/MoarKerbalsParts/wiki/Known-Issues "GitHub Issues"
 [MOD:contrib]: https://github.com/zer0Kerbal/MoarKerbalsParts/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:license]: https://github.com/zer0Kerbal/MoarKerbalsParts/blob/master/LICENSE "Github License"
 [LINK:local]: https://github.com/zer0Kerbal/MoarKerbalsParts/blob/master/GameData/MoarKerbalsParts/Localization/readme.md "Localization"
 
+<!--- mod -->
 [MOD:shld:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/json/mod.json
 
 [CODE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/json/code.json
 
 <!--- original mod -->
-[MOD:orig:source]: https://github.com/zer0Kerbal/MoarKerbalsParts "GitHub"
-[MOD:orig:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/104853-* "Original Thread"
-[MOD:orig:download]: https://github.com/zer0Kerbal/MoarKerbalsParts "GitHub"
+[MOD:org:source]: https://github.com/zer0Kerbal/MoarKerbalsParts "GitHub"
+[MOD:org:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/104853-* "Original Thread"
+[MOD:org:download]: https://github.com/zer0Kerbal/MoarKerbalsParts "GitHub"
 
 <!--- licenses  -->
-[LICENSE:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
-[LICENSE:icon:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/json/license.json "CC BY-NC-SA 4.0"
+[LIC:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+[LIC:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/json/license.json "CC BY-NC-SA 4.0"
 
-[LICENSE:orig:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
-[LICENSE:icon:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LICENSE:orig:shld]: https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-ef9421?logo=creativecommons&labelColor=black&logoColor=ef9421 "CC BY-NC-SA 4.0"
+[LIC:org:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+[LIC:org:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:org:shld]: https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-ef9421?logo=creativecommons&labelColor=black&logoColor=ef9421 "CC BY-NC-SA 4.0"
 
-[LICENSE:spec:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"
-[LICENSE:icon:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LICENSE:spec:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LICENSE:spec:shld]: https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-ef9421?logo=creativecommons&labelColor=black&logoColor=ef9421 "CC BY-NC-SA 4.0"
+[LIC:spec:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"
+[LIC:spec:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:spec:shd]: https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-ef9421?logo=creativecommons&labelColor=black&logoColor=ef9421 "CC BY-NC-SA 4.0"
 
-[LICENSE:icon:url]:  https://creativecommons.org/licenses/by/3.0/ "CC BY 3.0"
-[LICENSE:icon:logo]: https://licensebuttons.net/i/l/by/transparent/33/66/99/76x22.png "CC BY 3.0"
-[LICENSE:icon:shld]: https://img.shields.io/badge/license-CC%20BY%203.0-ef9421?logo=creativecommons&labelColor=black&logoColor=ef9421 "CC BY 3.0"
+[LIC:icn:url]:  https://creativecommons.org/licenses/by/3.0/ "CC BY 3.0"
+[LIC:icn:log]: https://licensebuttons.net/i/l/by/transparent/33/66/99/76x22.png "CC BY 3.0"
+[LIC:icn:shd]: https://img.shields.io/badge/license-CC%20BY%203.0-ef9421?logo=creativecommons&labelColor=black&logoColor=ef9421 "CC BY 3.0"
 
 <!--- AVC -->
-[AVC:shld]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
-[AVCVLD:shld]: https://github.com/zer0Kerbal/OhScrap/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid"
+[AVC:shd]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
+[AVCVLD:shd]: https://github.com/zer0Kerbal/OhScrap/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid"
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
@@ -299,7 +264,7 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 [GITHUB:img]: https://i.imgur.com/RE4Ppr9.png "GitHub"
 [GITHUB:shld]: https://img.shields.io/badge/Github-Listed-white.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
-[SPCDCK:url]: http://spacedock.info/mod/ "SpaceDock"
+[SPCDCK:url]: http://spacedock.info/mod/2898 "SpaceDock"
 [SPCDCK:img]: https://i.imgur.com/m0a7tn2.png "SpaceDock"
 [SPCDCK:shld]:  https://img.shields.io/badge/SpaceDock-Listed-white.svg?labelColor=181717&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==  "SpaceDock"
 
@@ -331,6 +296,7 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 [thread:ARPI]: https://forum.kerbalspaceprogram.com/index.php?/topic/193078-* "Olympic1's ARP Icons"
 [thread:BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-* "KaboOom!"
 [thread:GOLD]: https://forum.kerbalspaceprogram.com/index.php?/topic/203990-* "[The Gold Standard! (GOLD)"
+[thread:HLWN]: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-* "Halloween"
 [thread:JACK]: https://forum.kerbalspaceprogram.com/index.php?/topic/189466-* "Jack-O'-Lantern"
 [thread:KDVA]: http://forum.kerbalspaceprogram.com/index.php?/topic/202945-* "Keridian Dynamics Vessel Assembly (KDVA)"
 [thread:KGEX]: https://forum.kerbalspaceprogram.com/index.php?/topic/192696-* "KerGuise Experimental Engineering"
@@ -344,54 +310,31 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 [thread:QBTT]: https://forum.kerbalspaceprogram.com/index.php?/topic/204750-* "ISRU Thanks But No Tanks (KBTT)"
 [thread:SILP]: https://forum.kerbalspaceprogram.com/index.php?/topic/193051-* "Stock Inline Lights Patches"
 [thread:SOLS]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-* "Solar Science (SOLS)"
-[thread:MOARP]: https://forum.kerbalspaceprogram.com/index.php?/topic/191525-* "MoarKerbalsParts (MOARP)"
+[thread:MOARP]: https://www.curseforge.com/kerbal/ksp-mods/moarkerbalsparts "MoarKerbals Parts"
 [thread:SCON!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstructon!"
 [thread:SLIF!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191526-* "SimpleLife! (SLIFE!)"
 [thread:SLOG!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics! (SLOG!)"
 
 <!-- other mods -->
-[thread:cc]:  https://forum.kerbalspaceprogram.com/index.php?/topic/91625-* "Contract Configurator"
-[thread:df]: https://forum.kerbalspaceprogram.com/index.php?/topic/112328-* "DeepFreeze"
-[thread:dr]: https://forum.kerbalspaceprogram.com/index.php?/topic/50296-* "Deadly Reentry"
 [thread:fs]: https://forum.kerbalspaceprogram.com/index.php?/topic/22583-* "Firespitter"
-[thread:mc]: https://forum.kerbalspaceprogram.com/index.php?/topic/40183-* "Mission Controller"
 [thread:mm]:  https://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
-[thread:sr]: https://forum.kerbalspaceprogram.com/index.php?/topic/179306-* "StageRecovery"
-[thread:rt]:  http://remotetechnologiesgroup.github.io/RemoteTech/ "RemoteTech"
-[thread:arp]: https://forum.kerbalspaceprogram.com/index.php?/topic/54876-* "Alternate Resource Panel"
 [thread:cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130 "Connected Living Space (CLS)"  
-[thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"
-[thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"
 [thread:ctt]: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-* "Community Tech Tree (CTT)"  
-[thread:epl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-* "Extraplanetary Launchpads"
-[thread:far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-* "FAR"
-[thread:gpp]: https://forum.kerbalspaceprogram.com/index.php?/topic/152136-* "Galileo Planet Pack"
 [thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal ChangeLog"
-[thread:kct]: https://forum.kerbalspaceprogram.com/index.php?/topic/182877-* "Kerbal Construction Time"
-[thread:kks]: https://forum.kerbalspaceprogram.com/index.php?/topic/133082-* "KRASH"
-[thread:kop]: https://forum.kerbalspaceprogram.com/index.php?/topic/181547-* "Kopernicus"
-[thread:kos]: http://ksp-kos.github.io/KOS_DOC/ "Kerbal Operating System (kOS)"
-[thread:m13]: https://forum.kerbalspaceprogram.com/index.php?/topic/178484-* "Magico13's Modlets"
-[thread:smx]: https://forum.kerbalspaceprogram.com/index.php?/topic/130325-* "Stockalike Mining Expansion (SMX)"
-[thread:tss]: http://forum.kerbalspaceprogram.com/index.php?/topic/154853-* "Tarsier Space Tech"
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
-[thread:kspi]:https://forum.kerbalspaceprogram.com/index.php?/topic/173818-* "KSP Interstellar Extended"
-[thread:ponpe]: https://forum.kerbalspaceprogram.com/index.php?/topic/121597-* "Project Orion"
-[thread:scnst]: https://forum.kerbalspaceprogram.com/index.php?/topic/72679-* "SCANsat"
+[thread:mks]: http://forum.kerbalspaceprogram.com/index.php?/topic/154587-* "Modular Kolonization System (MKS)"
 [thread:snacks]: https://forum.kerbalspaceprogram.com/index.php?/topic/149604-* "Snacks"
-[thread:MOARs]: http://forum.kerbalspaceprogram.com/index.php?/topic/154587-* "Modular Kolonization System (MKS)"
-[thread:smpx]:  https://forum.kerbalspaceprogram.com/index.php?/topic/205078- "SIMPLEX Colonies"
-[thread:tac-ls]: https://github.com/KSP-RO/TacLifeSupport/wiki "TAC-LS"
-[thread:usi-ls]: http://umbraspaceindustries.github.io/UmbraSpaceIndustries/ "USI-LS"
-
+[thread:Scol]:  https://forum.kerbalspaceprogram.com/index.php?/topic/205078- "SIMPLEX Colonies"
+[thread:tacls]: https://github.com/KSP-RO/TacLifeSupport/wiki "TAC Life Support"
+[thread:usils]: http://umbraspaceindustries.github.io/UmbraSpaceIndustries/ "USI Life Support"
 [thread:ics]: https://forum.kerbalspaceprogram.com/index.php?/topic/74182-* " Ioncross Crew Support"
-[thread:bm]: https://forum.kerbalspaceprogram.com/index.php?/topic/48629-* "BioMass"
 
 <!--- statics -->
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
 [LINK:strideknight]: https://forum.kerbalspaceprogram.com/index.php?/profile/67555-strideknight/ "StrideKnight"
-[LINK:nills277]: https://forum.kerbalspaceprogram.com/index.php?/profile/122414-nils277/ "Nills277"
+[LINK:nils277]: https://forum.kerbalspaceprogram.com/index.php?/profile/122414-nils277/ "Nills277"
 [LINK:roverdude]: https://forum.kerbalspaceprogram.com/index.php?/profile/105198-roverdude/ "RoverDude"
+[LINK:linuxgurugamer]: https://forum.kerbalspaceprogram.com/index.php?/profile/129964-linuxgurugamer/ "linuxgurugamer"
 
 <!-- footnotes -->
 [^1]: ***may*** work on other versions (YMMV)
@@ -399,13 +342,12 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 [^3]: this isn't a mod. ;P
 
 <!--- misc logos -->
-[IMG:flg:0]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/strideknight_sm.jpg "MoarKerbals Flag"
+[IMG:flg:0]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbals/master/img/strideknight_flag.jpg "MoarKerbals Flag"
 
 [IMG:hero:0]: https://i.imgur.com/PCGwS6R.png "MoarKerbals"
 [IMG:hero:1]: https://i.imgur.com/fxpDZqn.png "MoarKerbals Screenshots"
 
 [IMGUR:0]: https://imgur.com/a/ucN1S "View full album on imgur"
-
 
 [IMG:part:0]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-kuddleshack.png "TheKuddleShack"
 [IMG:part:1]: https://raw.githubusercontent.com/zer0Kerbal/MoarKerbalsParts/master/img/moar-klonebay-ground_icon.png "KloneKabin - ground base"
@@ -415,7 +357,7 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
-[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY "PayPal"
+[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL "PayPal"
 
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon "Patreon"
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503 "Patreon"
@@ -446,5 +388,5 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 [HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
 <!--
-CC BY-NC-SA-4.0
+CC BY-NC-SA 4.0
 zer0Kerbal-->
