@@ -147,7 +147,7 @@ Parts for the MoarKerbals, a mod for Kerbal Space Program.
 - [ ]  [TAC-LS][thread:tacls]  
 - [ ]  [Snacks)][thread:snacks]  
 - [ ]  [Modular Kolonization System (MKS)][thread:mks]
-- [ ]  [Ioncross Crew Support!][[thread:ics]
+- [ ]  [Ioncross Crew Support!][thread:ics]
 
 ### Conflicts  
 
